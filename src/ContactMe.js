@@ -10,7 +10,7 @@ export default function ContactMe() {
       <div className="contact">
         <div className="contact-info">
           <p>
-            Are you looking looking to bring your web project to life? Look no
+            Are you looking to bring your web project to life? Look no
             further! With my strong foundation in modern JavaScript frameworks
             and a track record of delivering high-quality work on time, I am
             ready to take on new challenges and contribute to the success of
